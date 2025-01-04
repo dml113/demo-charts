@@ -21,9 +21,9 @@ entries:
     version: 1.0.0
   frontend-skills-repo:
   - apiVersion: v2
-    created: "2025-01-04T12:16:40.629644317Z"
+    created: "2025-01-04T12:23:01.646004578Z"
     description: A Helm chart for Kubernetes
-    digest: a488493e61afba7c118a6caad5f11556b82a55ffdfa40e1acd089e63387eae5f
+    digest: 250f85509b531ba444ded7d64f7f3a4fed295f7dedfaad9b93830f7ff2656297
     name: frontend-skills-repo
     type: application
     urls:
@@ -38,4 +38,4 @@ entries:
     urls:
     - https://github.com/dml113/demo-charts/releases/download/v1.0.0/frontend-skills-repo-1.0.0.tgz
     version: 1.0.0
-generated: "2025-01-04T12:16:40.629292742Z"
+generated: "2025-01-04T12:23:01.645674479Z"
